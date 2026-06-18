@@ -1,0 +1,12 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：栈与队列的基本概念与Python实现
+
+**关键概念**：
+- **栈（Stack）**：后进先出（LIFO，Last In First Out）数据结构。
+- **队列（Queue）**：先进先出（FIFO，First In First Out）数据结构。
+- **Python 栈模拟**：使用列表（list）的 `append()` 和 `pop()` 方法实现栈操作。
+- **Python 队列模拟**：使用 `collections.deque` 实现高效的队列操作。
+
+**摘要**：
+本文档介绍了两种基本的数据结构：栈（LIFO）和队列（FIFO），并提供了它们在 Python 中的简单实现方法。栈可以通过 Python 内置列表的 `append()`（入栈）和 `pop()`（出栈）方法模拟。队列则推荐使用 `collections.deque` 来模拟，因为它在两端进行添加和弹出操作时效率更高。

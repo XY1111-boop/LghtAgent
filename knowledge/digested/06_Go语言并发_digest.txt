@@ -1,0 +1,11 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：Goroutine与Channel基础通信模式
+
+**关键概念**：
+- **Goroutine**：Go语言中的轻量级线程，通过 `go` 关键字启动，用于并发执行函数。
+- **Channel**：Go语言中用于Goroutine之间通信的管道，支持发送（`<-`）和接收（`<-`）操作。
+- **无缓冲Channel**：默认创建的Channel，发送和接收操作必须同时准备好，否则会阻塞，常用于同步通信。
+
+**摘要**：
+文档展示了一个简单的Goroutine与Channel配合使用的示例：通过 `go func()` 启动一个匿名Goroutine，在其中向无缓冲Channel `ch` 发送整数值 `42`；主Goroutine通过 `val := <-ch` 从同一Channel接收该值。这段代码体现了Go语言“通过通信来共享内存”的并发模型，利用无缓冲Channel实现了两个Goroutine之间的同步数据传递。

@@ -1,0 +1,16 @@
+以下是基于您提供的文档内容生成的知识卡片：
+
+---
+
+### 📚 知识卡片：Flask快速开发
+
+**标题**  
+Flask快速开发与扩展生态
+
+**关键概念**  
+- **Flask**：轻量级Python Web框架，核心简洁，扩展灵活  
+- **Django ORM**：Django内置的对象关系映射工具，用于数据库操作  
+- **Django admin**：Django自动生成的后台管理界面  
+- **REST framework**：通常指Django REST framework（DRF），用于构建RESTful API
+
+**摘要**  

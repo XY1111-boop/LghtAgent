@@ -1,0 +1,15 @@
+以下是该文档的知识卡片：
+
+**标题**：进程 vs 线程
+
+**关键概念**：
+- 进程（Process）
+- 线程（Thread）
+- 并发（Concurrency）
+- 锁（Lock）
+- 死锁（Deadlock）
+- Python 多进程（multiprocessing）
+- Python 多线程（threading）
+
+**摘要**：
+本文档围绕进程与线程的对比展开，核心探讨并发编程中的两个关键问题：锁与死锁。在 Python 环境下，分别介绍了实现并发的两种主要方式——`multiprocessing`（多进程）与 `threading`（多线程），为理解并发模型、资源竞争与同步机制提供了基础框架。

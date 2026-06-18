@@ -1,0 +1,55 @@
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境
+venv/
+env/
+
+# 日志文件
+Logs/
+*.log
+
+# 数据库和缓存
+Cache/
+chroma_db/
+*.db
+*.sqlite3
+
+# 模型文件（体积大，建议单独管理）
+models/
+*.gguf
+
+# 临时文件和备份
+*.bak
+*.backup
+fix_*.py
+repair_*.py
+upgrade_*.py
+install_*.py
+final_*.py
+diagnose_*.py
+test_*.py
+temp_*.py
+*.zip
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 桌面日志和报告
+Desktop/
+LightAgent_*.txt
+
+# 其它
+web/mermaid.min.js
+*.pkl
+*.joblib

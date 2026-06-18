@@ -1,0 +1,14 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：Kubernetes 核心对象与操作：Pod、Service、Deployment
+
+**关键概念**：
+- **Pod**：Kubernetes 中最小的可部署单元，包含一个或多个容器，共享网络和存储资源。
+- **Service**：定义一组 Pod 的访问策略，提供稳定的网络端点（IP 或 DNS 名称），实现负载均衡和服务发现。
+- **Deployment**：声明式管理 Pod 和 ReplicaSet，支持应用的声明式更新、回滚、缩放（扩缩容）以及滚动更新。
+- **kubectl get pods**：用于查看当前集群中所有 Pod 的状态、名称、就绪状态等信息的命令行工具。
+- **缩放**：通过调整 Deployment 的副本数（replicas）来增加或减少 Pod 的数量，以应对负载变化。
+- **滚动更新**：逐步替换旧版本 Pod 为新版本 Pod 的更新策略，确保服务在更新过程中持续可用。
+
+**摘要**：
+本文档简要介绍了 Kubernetes 中的三个核心对象：Pod（最小部署单元）、Service（网络访问与负载均衡）和 Deployment（声明式管理与更新）。同时，文档提到了使用 `kubectl get pods` 命令查看 Pod 状态，以及通过 Deployment 实现应用的缩放（扩缩容）和滚动更新功能。这些是 Kubernetes 集群日常运维和发布管理的基础操作。

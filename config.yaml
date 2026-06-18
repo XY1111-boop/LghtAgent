@@ -1,0 +1,22 @@
+brainstorm_temperature: 1.0
+cache_size: 500
+creativity_temperature: 0.3
+evolution_aggressiveness: 0.5
+evolution_enabled: true
+evolution_talents:
+  creativity: 2
+  intelligence: 5
+  safety: 4
+  speed: 5
+hardware: {}
+host_executor_allowed_dir: E:/LightAgent/Knowledge/raw
+knowledge_raw_dir: E:/LightAgent/Knowledge/raw
+log_retention_days: 30
+max_memory_entries: 10000
+model: deepseek-chat
+project_root: E:/LightAgent
+safety_level: 4
+sandbox_memory_limit_mb: 256
+serper_api_key: ''
+theme: light
+use_local_llm: true

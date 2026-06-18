@@ -1,0 +1,24 @@
+enabled: true
+enhancers:
+- enabled: true
+  name: cot
+  template: '请逐步思考并回答以下问题：
+
+    {user_message}'
+- base_temp: 0.7
+  difficulty_threshold: 0.5
+  enabled: true
+  name: dynamic_temp
+- enabled: true
+  name: rag
+  top_k: 2
+- enabled: true
+  name: reflexion
+- enabled: true
+  name: tot
+- enabled: true
+  name: pal
+- enabled: true
+  name: experience
+- enabled: true
+  name: clarify

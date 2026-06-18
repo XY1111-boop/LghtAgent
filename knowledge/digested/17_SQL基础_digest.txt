@@ -1,0 +1,15 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：SQL 基本操作语句（SELECT、INSERT、UPDATE、DELETE）
+
+**关键概念**：
+- **SELECT**：用于从数据库中查询数据，常配合 WHERE 条件进行筛选。
+- **INSERT**：用于向表中插入新数据。
+- **UPDATE**：用于修改表中已有的数据。
+- **DELETE**：用于删除表中的数据。
+- **JOIN**：用于将多个表根据关联字段连接起来进行查询。
+- **GROUP BY**：用于将查询结果按指定列分组，常与聚合函数（如 COUNT、SUM）一起使用。
+- **ORDER BY**：用于对查询结果按指定列进行排序（升序或降序）。
+
+**摘要**：
+本文档介绍了 SQL 中最常用的四种数据操作语句：SELECT、INSERT、UPDATE 和 DELETE，并给出了一个示例查询语句 `SELECT name FROM users WHERE age>18;`。此外，还提到了 JOIN、GROUP BY 和 ORDER BY 等高级查询子句，用于实现多表连接、分组统计和结果排序等复杂操作。

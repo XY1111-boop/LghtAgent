@@ -1,0 +1,886 @@
+{"time": "2026-06-07T09:16:38.486951", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.7 \u8c03\u6574\u4e3a 0.6"}
+{"time": "2026-06-07T09:16:38.488981", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:17:38.491527", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.6 \u8c03\u6574\u4e3a 0.5"}
+{"time": "2026-06-07T09:17:38.491527", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:18:38.493995", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.5 \u8c03\u6574\u4e3a 0.4"}
+{"time": "2026-06-07T09:18:38.495025", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:19:38.497282", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.4 \u8c03\u6574\u4e3a 0.30000000000000004"}
+{"time": "2026-06-07T09:19:38.497282", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:20:38.499517", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.30000000000000004 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:20:38.500527", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:21:38.503082", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:21:38.503088", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:22:38.505022", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:22:38.505022", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:23:38.508014", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:23:38.508014", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:24:32.433593", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:24:32.434611", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:24:37.204477", "level": "USER", "description": "\u5929\u8d4b \ud83e\udde0 \u667a\u529b \u5347\u7ea7\u5230 Lv.2: \u6e29\u5ea6\u4ece 0.30 \u964d\u81f3 0.30"}
+{"time": "2026-06-07T09:25:08.362739", "level": "USER", "description": "\u5929\u8d4b \u26a1 \u901f\u5ea6 \u5347\u7ea7\u5230 Lv.2: \u5df2\u4f18\u5316\u63a8\u7406\u53c2\u6570\uff0c\u91cd\u542f\u540e\u751f\u6548"}
+{"time": "2026-06-07T09:25:15.219130", "level": "USER", "description": "\u5929\u8d4b \u26a1 \u901f\u5ea6 \u5347\u7ea7\u5230 Lv.3: \u5df2\u4f18\u5316\u63a8\u7406\u53c2\u6570\uff0c\u91cd\u542f\u540e\u751f\u6548"}
+{"time": "2026-06-07T09:25:17.018366", "level": "USER", "description": "\u5929\u8d4b \u26a1 \u901f\u5ea6 \u5347\u7ea7\u5230 Lv.4: \u5df2\u4f18\u5316\u63a8\u7406\u53c2\u6570\uff0c\u91cd\u542f\u540e\u751f\u6548"}
+{"time": "2026-06-07T09:25:19.293214", "level": "USER", "description": "\u5929\u8d4b \ud83e\udde0 \u667a\u529b \u5347\u7ea7\u5230 Lv.3: \u6e29\u5ea6\u4ece 0.30 \u964d\u81f3 0.30"}
+{"time": "2026-06-07T09:25:21.763308", "level": "USER", "description": "\u5929\u8d4b \ud83d\udee1\ufe0f \u5b89\u5168 \u5347\u7ea7\u5230 Lv.2: \u5b89\u5168\u7b49\u7ea7\u63d0\u5347\u81f3 2"}
+{"time": "2026-06-07T09:25:23.657705", "level": "USER", "description": "\u5929\u8d4b \ud83d\udee1\ufe0f \u5b89\u5168 \u5347\u7ea7\u5230 Lv.3: \u5b89\u5168\u7b49\u7ea7\u63d0\u5347\u81f3 3"}
+{"time": "2026-06-07T09:25:26.004998", "level": "USER", "description": "\u5929\u8d4b \ud83c\udfa8 \u521b\u610f \u5347\u7ea7\u5230 Lv.2: \u6e29\u5ea6\u4ece 0.30 \u5347\u81f3 0.40"}
+{"time": "2026-06-07T09:25:32.437036", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.4 \u8c03\u6574\u4e3a 0.30000000000000004"}
+{"time": "2026-06-07T09:25:32.438052", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:26:46.248340", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.30000000000000004 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:26:46.251415", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:26:53.700161", "level": "USER", "description": "\u5929\u8d4b \ud83e\udde0 \u667a\u529b \u5347\u7ea7\u5230 Lv.4: \u6e29\u5ea6\u4ece 0.30 \u964d\u81f3 0.30"}
+{"time": "2026-06-07T09:27:03.874225", "level": "USER", "description": "\u5929\u8d4b \u26a1 \u901f\u5ea6 \u5347\u7ea7\u5230 Lv.5: \u5df2\u4f18\u5316\u63a8\u7406\u53c2\u6570\uff0c\u91cd\u542f\u540e\u751f\u6548"}
+{"time": "2026-06-07T09:27:46.254336", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:27:46.255350", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:28:46.257693", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:28:46.257693", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:30:04.800144", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:30:04.802191", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:31:04.805356", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:31:04.805356", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:32:04.808284", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:32:04.808284", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:34:43.616060", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:34:43.617072", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:34:55.074588", "level": "USER", "description": "\u5929\u8d4b \ud83e\udde0 \u667a\u529b \u5347\u7ea7\u5230 Lv.5: \u6e29\u5ea6\u4ece 0.30 \u964d\u81f3 0.30"}
+{"time": "2026-06-07T09:35:43.621196", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:35:43.622213", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:36:43.624497", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:36:43.624497", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:37:43.627081", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:37:43.627081", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:38:43.629304", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:38:43.630317", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:43:57.290302", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:43:57.290302", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:45:07.726261", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:45:07.729312", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:50:10.563209", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:50:10.563209", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:51:10.565870", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:51:10.566883", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:52:10.568782", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:52:10.569793", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:53:10.571911", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:53:10.572919", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:54:10.575373", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:54:10.576388", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:55:25.808635", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:55:25.809681", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:56:25.812100", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:56:25.813112", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T09:57:03.073351", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T09:57:03.074366", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:00:52.420472", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:00:52.421503", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:03:48.714187", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:03:48.715185", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:04:48.718321", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:04:48.718321", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:05:48.721058", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:05:48.722133", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:06:48.724300", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:06:48.724300", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:07:48.726585", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:07:48.727584", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:08:48.729745", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:08:48.729745", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:09:48.732205", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:09:48.733190", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:10:48.735174", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:10:48.736174", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:11:48.738482", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:11:48.738482", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:12:48.740893", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:12:48.741892", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:13:48.744377", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:13:48.745377", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:14:48.747801", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:14:48.747801", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:15:48.750594", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:15:48.750594", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:16:48.753267", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:16:48.754303", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:17:48.755722", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:17:48.756721", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:18:48.758542", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:18:48.759523", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:19:48.761628", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:19:48.762610", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:20:48.764398", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:20:48.765380", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:21:48.768009", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:21:48.768009", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:22:48.770525", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:22:48.771509", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:23:48.773552", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:23:48.773552", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:24:48.776321", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:24:48.776321", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:25:48.779369", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:25:48.780525", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:26:48.782544", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:26:48.782544", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:27:48.785910", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:27:48.786911", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:28:48.789640", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:28:48.789640", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:29:48.791783", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:29:48.791783", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:30:48.794470", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:30:48.795452", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:31:48.798164", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:31:48.798164", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:32:48.800947", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:32:48.801930", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:33:48.803899", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:33:48.804899", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:34:48.807237", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:34:48.807237", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:35:48.810212", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:35:48.811282", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:36:48.813490", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:36:48.813490", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:37:48.816086", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:37:48.816086", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:38:48.818064", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:38:48.819045", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:39:48.820868", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:39:48.821849", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:40:48.824551", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:40:48.824551", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:41:48.826545", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:41:48.827525", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:42:48.829272", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:42:48.830350", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:43:48.832845", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:43:48.832845", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:44:48.835512", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:44:48.835512", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:45:48.839385", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:45:48.840365", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:46:48.842891", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:46:48.842891", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:47:48.846201", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:47:48.847265", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:48:48.848658", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:48:48.849641", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:49:48.852016", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:49:48.852016", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:50:48.854791", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:50:48.855772", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:51:48.858161", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:51:48.859293", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:52:48.860842", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:52:48.860842", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:53:48.863848", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:53:48.863848", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:54:48.866683", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:54:48.867664", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:55:48.869644", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:55:48.870627", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:56:48.872459", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:56:48.873442", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:57:48.876160", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:57:48.876160", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:58:48.878272", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:58:48.879269", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T10:59:48.881467", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T10:59:48.881467", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:00:48.884137", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:00:48.885227", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:01:48.887547", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:01:48.887547", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:02:48.890552", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:02:48.891639", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:03:48.893819", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:03:48.894874", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:04:48.896354", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:04:48.897338", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:05:48.899012", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:05:48.899993", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:06:48.901545", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:06:48.902545", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:07:48.905225", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:07:48.906271", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:08:48.908590", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:08:48.908590", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:09:48.911390", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:09:48.912418", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:10:48.914408", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:10:48.915389", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:11:48.917124", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:11:48.918255", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:12:48.920093", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:12:48.921076", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:13:48.923226", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:13:48.924224", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:14:48.926523", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:14:48.927611", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:15:48.929350", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:15:48.930349", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:16:48.932659", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:16:48.933642", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:17:48.935575", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:17:48.936559", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:18:48.938779", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:18:48.939761", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:19:48.942355", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:19:48.942355", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:20:48.944748", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:20:48.945820", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:21:48.947206", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:21:48.948189", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:22:48.949860", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:22:48.950933", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:23:48.952770", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:23:48.953753", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:24:48.955655", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:24:48.955655", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:25:48.958884", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:25:48.958884", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:26:48.962139", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:26:48.962139", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:27:48.964492", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:27:48.965602", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:28:48.967881", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:28:48.967881", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:29:48.969931", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:29:48.969931", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:30:48.972349", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:30:48.973410", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:31:48.976501", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:31:48.977963", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:32:48.979752", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:32:48.980799", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:33:48.983322", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:33:48.983322", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:34:48.985478", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:34:48.986459", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:35:48.988748", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:35:48.989747", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:36:48.992338", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:36:48.993334", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:37:48.995824", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:37:48.996881", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:38:48.999018", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:38:49.000001", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:39:49.001947", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:39:49.002929", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:40:49.004635", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:40:49.005634", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:41:49.007415", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:41:49.007415", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:42:49.010412", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:42:49.011411", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:43:49.013957", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:43:49.014939", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:44:49.016779", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:44:49.017849", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:45:49.020019", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:45:49.020999", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:46:49.023788", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:46:49.023788", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:47:49.026559", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:47:49.026559", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:48:49.028756", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:48:49.029740", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:49:49.032049", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:49:49.033049", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:50:49.036158", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:50:49.037142", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:51:49.039436", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:51:49.040579", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:52:49.042274", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:52:49.042274", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:53:49.045391", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:53:49.046373", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:54:49.047944", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:54:49.048927", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:55:49.051120", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:55:49.051120", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:56:49.053538", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:56:49.054676", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:57:49.056994", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:57:49.056994", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:58:49.059044", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:58:49.059044", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T11:59:49.062089", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T11:59:49.063088", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:00:49.067923", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:00:49.068924", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:01:11.556247", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:01:11.557239", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:02:40.080592", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:02:40.082053", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:09:53.711429", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:09:53.711429", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:11:12.523560", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:11:12.524552", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:12:31.807423", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:12:31.807938", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:14:40.507371", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:14:40.508353", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:16:14.557496", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:16:14.559503", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:17:14.564152", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:17:14.605243", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:18:14.607644", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:18:14.608639", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:19:14.610991", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:19:14.610991", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-07T12:20:14.613775", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-07T12:20:14.614775", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:39:45.233226", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:39:45.234217", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:40:45.238465", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:40:45.239465", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:41:45.243108", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:41:45.243108", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:42:45.245590", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:42:45.246585", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:43:45.249175", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:43:45.249175", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:44:45.256182", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:44:45.257239", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:45:45.259028", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:45:45.260027", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:46:45.262784", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:46:45.263783", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:47:45.266273", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:47:45.267366", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:48:45.269269", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:48:45.269269", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:49:45.276578", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:49:45.278096", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:50:45.281449", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:50:45.282446", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:51:45.284582", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:51:45.284582", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:52:45.288244", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:52:45.289379", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:53:45.291445", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:53:45.291445", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:54:45.293874", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:54:45.293874", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:55:45.297183", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:55:45.297183", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:56:45.299700", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:56:45.300830", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:57:45.302251", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:57:45.303233", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:58:45.305169", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:58:45.306292", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T20:59:45.308447", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T20:59:45.308447", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:00:45.312173", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:00:45.312173", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:01:45.315966", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:01:45.317121", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:02:45.320230", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:02:45.321734", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:03:45.324927", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:03:45.324927", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:04:45.327539", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:04:45.327539", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:05:45.330357", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:05:45.331343", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:06:45.334023", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:06:45.335384", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:07:45.338320", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:07:45.340319", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:09:42.158599", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:09:42.158599", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:10:42.161205", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:10:42.162204", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:11:42.165571", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:11:42.165571", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:12:42.168964", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:12:42.168964", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:13:42.172040", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:13:42.172040", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:14:42.174938", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:14:42.174938", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:15:42.178170", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:15:42.179553", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:16:42.181430", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:16:42.182430", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:17:42.184535", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:17:42.184535", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:18:42.188176", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:18:42.188176", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:19:42.190924", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:19:42.191910", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:24:33.559321", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:24:33.559837", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:25:33.562915", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:25:33.563916", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T21:26:33.567371", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T21:26:33.567371", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:03:19.867859", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:03:19.868840", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:04:19.873635", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:04:19.915218", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:05:40.661115", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:05:40.662536", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:06:40.668220", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:06:40.669220", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:07:40.672579", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:07:40.672579", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:08:40.675192", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:08:40.676175", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:09:40.678906", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:09:40.678906", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:10:40.682998", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:10:40.682998", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:11:12.377216", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:11:12.378215", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:12:12.382775", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:12:12.383775", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:13:12.388781", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:13:12.389780", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:14:12.392024", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:14:12.393350", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:15:12.395482", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:15:12.396939", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:19:01.259925", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:19:01.262435", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:20:01.266008", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:20:01.266008", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:21:01.269913", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:21:01.269913", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:23:59.536966", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:23:59.537963", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:24:59.543863", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:24:59.548970", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:25:59.558086", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:25:59.592683", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:26:59.595744", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:26:59.595744", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:27:59.598695", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:27:59.599682", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:32:22.377504", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:32:22.377504", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:33:22.382045", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:33:22.384033", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:34:22.388976", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:34:22.397006", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:35:22.400135", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:35:22.401120", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:36:22.404207", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:36:22.404207", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:39:17.732956", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:39:17.733941", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:40:14.453525", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:40:14.455041", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:42:30.655202", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:42:30.656361", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:43:30.658418", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:43:30.659750", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:44:30.661300", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:44:30.662300", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:47:18.396384", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:47:18.397644", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:48:18.402676", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:48:18.413704", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:49:18.416941", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:49:18.417942", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:50:18.420129", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:50:18.421114", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:51:18.423822", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:51:18.424817", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:52:18.427613", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:52:18.427613", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:53:18.431054", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:53:18.431054", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:54:53.202862", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:54:53.203855", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:55:53.220212", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:55:53.221197", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:56:53.224437", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:56:53.224437", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:57:53.227824", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:57:53.229304", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T22:59:45.289281", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T22:59:45.292805", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:00:45.296961", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:00:45.332568", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:01:45.337438", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:01:45.337438", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:02:47.398960", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:02:47.400276", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:05:47.272479", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:05:47.273624", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:06:47.277853", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:06:47.308467", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:07:47.313685", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:07:47.320199", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:08:47.324711", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:08:47.324711", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:09:47.327266", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:09:47.328266", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:10:47.330631", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:10:47.331630", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:11:47.335757", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:11:47.340268", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:12:47.344880", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:12:47.345872", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:16:25.858045", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:16:25.862566", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:17:25.866421", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:17:25.875062", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:18:25.878958", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:18:25.888474", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:19:25.891921", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:19:25.893264", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:20:25.895306", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:20:25.897314", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:21:25.899581", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:21:25.899581", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:22:25.903220", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:22:25.903220", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:23:25.905759", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:23:25.906760", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:24:25.911290", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:24:25.911290", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:25:25.915168", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:25:25.916162", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:26:25.918977", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:26:25.919976", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:26:59.767957", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:26:59.767957", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:27:59.772273", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:27:59.774268", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:28:59.777744", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:28:59.778248", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:29:59.780320", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:29:59.780320", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:30:59.783458", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:30:59.783458", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:31:59.786589", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:31:59.786589", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:32:59.788770", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:32:59.789936", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:34:36.997535", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:34:36.998512", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:35:37.002057", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:35:37.002057", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:36:37.004762", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:36:37.005762", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:37:37.009439", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:37:37.009439", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:38:37.011843", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:38:37.012827", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:39:37.015070", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:39:37.015070", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:40:37.018328", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:40:37.018328", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:41:37.022703", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:41:37.022703", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-11T23:42:37.029021", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: \u6e29\u5ea6\u5df2\u4ece 0.3 \u8c03\u6574\u4e3a 0.3"}
+{"time": "2026-06-11T23:42:37.032530", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: \u5df2\u6253\u5370\u95ee\u5019"}
+{"time": "2026-06-15T15:20:49.437245", "level": "USER", "description": "\u5929\u8d4b \ud83d\udee1\ufe0f \u5b89\u5168 \u5347\u7ea7\u5230 Lv.4: \u5b89\u5168\u7b49\u7ea7\u63d0\u5347\u81f3 4"}
+{"time": "2026-06-15T17:28:33.413338", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:28:33.414336", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:29:33.415815", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:29:33.415815", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:30:33.417247", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:30:33.417247", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:31:33.417937", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:31:33.417937", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:32:33.419161", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:32:33.419672", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:33:33.420210", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:33:33.420210", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:34:33.486542", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:34:33.486542", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T17:35:33.487790", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T17:35:33.487790", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:24:19.164423", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:24:19.164423", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:25:19.165519", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:25:19.165519", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:26:19.166459", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:26:19.166459", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:27:19.167380", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:27:19.167380", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:28:19.168667", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:28:19.168667", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:30:07.044249", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:30:07.045350", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:31:07.046408", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:31:07.046408", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:32:07.048074", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:32:07.048074", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:33:07.049247", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:33:07.049751", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:34:07.051005", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:34:07.052003", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:35:07.053914", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:35:07.053914", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T19:36:07.055074", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T19:36:07.055074", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:12:05.910217", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:12:05.911216", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:13:05.912017", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:13:05.912531", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:14:19.782346", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:14:19.782346", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:16:27.200202", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:16:27.200202", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:17:27.201554", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:17:27.201554", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:18:50.764168", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:18:50.765161", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:19:50.765927", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:19:50.765927", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:20:33.808871", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:20:33.808871", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:21:33.811063", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:21:33.811063", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:23:49.179682", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:23:49.180616", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:24:49.181569", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:24:49.181569", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:26:50.079796", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:26:50.080789", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:27:50.082624", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:27:50.083150", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:29:54.049164", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:29:54.049164", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:30:54.050703", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:30:54.050703", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:31:54.051730", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:31:54.051730", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:39:07.070590", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:39:07.071584", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:40:07.072286", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:40:07.072286", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:41:07.073258", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:41:07.073258", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:55:04.559499", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:55:04.560497", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:56:04.562062", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:56:04.562062", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:56:44.546904", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:56:44.547904", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:57:18.984816", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:57:18.985507", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:58:18.987390", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:58:18.987390", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T21:59:18.988516", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T21:59:18.988516", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:00:18.989415", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:00:18.989415", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:00:49.266448", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:00:49.266448", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:01:18.990907", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:01:18.994422", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:02:54.338972", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:02:54.340961", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:03:54.341753", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:03:54.341753", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:04:58.096217", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:04:58.096217", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:05:58.098345", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:05:58.098861", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:07:14.002691", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:07:14.003696", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:08:49.791867", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:08:49.792865", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:09:49.794233", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:09:49.794233", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:10:49.795561", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:10:49.795561", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:11:24.473196", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:11:24.473196", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:12:24.475087", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:12:24.475087", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:13:24.477325", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:13:24.477325", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:13:34.805663", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:13:34.806662", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:15:31.978889", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:15:31.979874", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:16:31.981508", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:16:31.981508", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:17:31.982647", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:17:31.982647", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:17:49.018417", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:17:49.018417", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:19:10.497933", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:19:10.498929", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:20:10.499956", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:20:10.499956", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:21:52.269239", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:21:52.269239", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:26:21.893611", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:26:21.894123", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:27:21.895311", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:27:21.895878", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:28:21.896341", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:28:21.896341", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:29:12.488175", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:29:12.489108", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:30:12.490077", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:30:12.490077", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:31:12.491454", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:31:12.491454", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:32:12.492960", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:32:12.492960", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:33:12.493836", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:33:12.493836", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:34:12.495397", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:34:12.495397", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:35:12.496196", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:35:12.496196", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:36:12.497552", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:36:12.497552", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:37:32.335395", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:37:32.335395", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:38:32.337118", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:38:32.337118", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:39:32.338352", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:39:32.338352", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:40:43.833244", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:40:43.834247", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:41:43.835583", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:41:43.835583", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:42:43.836624", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:42:43.836624", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:43:43.838319", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:43:43.838319", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:44:43.839197", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:44:43.839197", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:45:43.840146", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:45:43.840146", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:46:43.841424", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:46:43.841424", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:47:43.842280", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:47:43.842280", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:48:43.843509", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:48:43.843509", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:49:43.844379", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:49:43.844379", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:50:43.845345", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:50:43.845345", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:51:43.846191", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:51:43.846191", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:52:43.847231", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:52:43.847231", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:54:30.741657", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:54:30.742656", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:55:30.744504", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:55:30.744504", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:56:55.885781", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:56:55.887785", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T22:59:04.671723", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T22:59:04.672722", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:00:04.674027", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:00:04.674027", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:01:04.675497", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:01:04.675497", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:01:43.564200", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:01:43.566205", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:02:43.567935", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:02:43.567935", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:03:43.569052", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:03:43.569052", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:04:13.021590", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:04:13.021590", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:04:42.159560", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:04:42.160555", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-15T23:05:42.161858", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-15T23:05:42.161858", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T01:42:11.243861", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T01:42:11.243861", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T01:46:50.028110", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T01:46:50.028110", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:09:57.686488", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:09:57.696972", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:10:57.700032", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:10:57.700032", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:11:57.701502", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:11:57.702043", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:12:57.703386", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:12:57.703386", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:13:57.704491", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:13:57.704491", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:14:57.705387", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:14:57.705387", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:15:57.706867", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:15:57.706867", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:16:57.707573", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:16:57.708086", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:17:57.708687", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:17:57.708687", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:18:57.709781", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:18:57.709781", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:19:57.710747", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:19:57.710747", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:20:57.711497", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:20:57.711497", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:21:57.713114", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:21:57.713114", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:22:57.714504", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:22:57.714504", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:23:57.716214", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:23:57.716214", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:24:57.717127", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:24:57.717127", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:25:57.717824", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:25:57.717824", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:26:57.718921", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:26:57.718921", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:27:57.719996", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:27:57.719996", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:28:57.721734", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:28:57.721734", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:29:57.722877", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:29:57.722877", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:30:57.723845", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:30:57.723845", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:31:57.724959", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:31:57.724959", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T08:32:13.572765", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T08:32:13.572765", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:38:32.958656", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:38:32.959654", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:39:41.435113", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:39:41.436112", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:40:41.437021", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:40:41.437021", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:41:41.438293", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:41:41.438293", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:42:58.165559", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:42:58.166556", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:48:09.917071", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:48:09.918058", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:49:18.057876", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:49:18.094927", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:56:47.461312", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:56:47.462307", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:57:47.463119", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:57:47.463119", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:58:34.807522", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:58:34.808524", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T10:59:19.202608", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T10:59:19.202608", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:00:19.203756", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:00:19.203756", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:01:19.204804", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:01:19.204804", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:02:19.205669", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:02:19.206179", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:03:19.206549", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:03:19.206549", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:04:19.207395", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:04:19.207395", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:05:19.208267", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:05:19.208267", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:30:16.143331", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:30:16.143331", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T11:37:32.228943", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T11:37:32.229925", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}
+{"time": "2026-06-16T12:42:56.557147", "level": "USER", "description": "\u89c4\u5219 evo_adjust_temperature: None"}
+{"time": "2026-06-16T12:42:56.569698", "level": "USER", "description": "\u89c4\u5219 evo_print_greeting: None"}

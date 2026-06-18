@@ -1,0 +1,30 @@
+api_key: sk-11bceb8504e24914a9a5fae4fa77cec4
+brainstorm_temperature: 1.0
+cache_size: 500
+creativity_temperature: 0.7
+evolution_aggressiveness: 0.5
+evolution_enabled: true
+hardware:
+  cpu: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+  cpu_cores_logical: 4
+  cpu_cores_physical: 2
+  disk_total_gb: 149.4
+  gpu:
+  - driver: '391.35'
+    memory_free_mb: 1891.0
+    memory_total_mb: 2048.0
+    name: GeForce GTX 960M
+  hostname: DESKTOP-CVN7A9G
+  os: Windows-10-10.0.19045-SP0
+  ram_total_gb: 11.92
+  user: Administrator
+host_executor_allowed_dir: E:\LightAgent\Knowledge\raw
+knowledge_raw_dir: E:\LightAgent\Knowledge\raw
+log_retention_days: 30
+max_memory_entries: 10000
+model: deepseek-chat
+sandbox_memory_limit_mb: 256
+serper_api_key: ''
+theme: light
+
+use_local_llm: true   # 启用张瑶瑶本地大脑

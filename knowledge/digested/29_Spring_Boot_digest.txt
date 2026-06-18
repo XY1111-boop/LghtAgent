@@ -1,0 +1,11 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：Java Spring Boot 核心注解与配置
+
+**关键概念**：
+- **@RestController**：用于定义 RESTful Web 服务的控制器，结合了 @Controller 和 @ResponseBody，自动将返回对象序列化为 JSON/XML。
+- **@Autowired**：实现依赖注入，自动装配 Bean，减少手动创建对象，提升代码解耦性。
+- **application.yml**：Spring Boot 的配置文件，采用 YAML 格式，用于设置应用参数（如数据库、端口、日志等），比 properties 更简洁。
+
+**摘要**：  
+Spring Boot 通过 @RestController 简化 REST API 开发，利用 @Autowired 自动注入依赖，并通过 application.yml 集中管理配置，实现快速、轻量级的微服务构建。

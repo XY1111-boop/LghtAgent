@@ -1,0 +1,321 @@
+{
+  "data": [
+    {
+      "instruction": "打开文件管理器",
+      "code": "run_allowed_command('explorer')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "创建一个名为 'test.txt' 的新文本文件",
+      "code": "open_website('https://www.example.com/create-file'); keyboard_type('t'); write_file('test.txt', '')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开浏览器并访问百度",
+      "code": "open_website('https://www.baidu.com')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "在新标签页中打开计算器",
+      "code": "run_allowed_command('explorer.exe https://www.microsoft.com/en-us/windows/edge')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开计算器",
+      "code": "run_allowed_command('calc')",
+      "description": "文本编辑",
+      "success_count": 0
+    },
+    {
+      "instruction": "运行文本编辑器",
+      "code": "open_website('https://www.example.com/texteditor')",
+      "description": "文本编辑",
+      "success_count": 0
+    },
+    {
+      "instruction": "运行一个Python脚本",
+      "code": "run_allowed_command('/usr/bin/python3 /path/to/your_script.py')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "查找文件夹中的所有文件和子文件夹",
+      "code": "open_website('https://www.example.com/search?query=files+and+folders')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开浏览器",
+      "code": "open_website('https://www.google.com')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "访问百度",
+      "code": "open_website('https://www.baidu.com')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "运行系统更新",
+      "code": "run_allowed_command('sfc /scannow')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "重启电脑",
+      "code": "run_allowed_command('shutdown -r -t 0')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开文件资源管理器",
+      "code": "run_allowed_command('explorer .')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "搜索百度",
+      "code": "keyboard_type('https://www.baidu.com/')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "创建一个名为 'test.txt' 的新文本文件并写入内容 'Hello, World!' ",
+      "code": "write_file('test.txt', 'Hello, World!')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "在新标签页中打开百度",
+      "code": "run_allowed_command('start chrome https://www.baidu.com')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开文本编辑器",
+      "code": "run_allowed_command('notepad')",
+      "description": "文本编辑",
+      "success_count": 0
+    },
+    {
+      "instruction": "新建一个空白文件",
+      "code": "open_website('https://www.example.com/newfile.html'); write_file('newfile.txt', '')",
+      "description": "文本编辑",
+      "success_count": 0
+    },
+    {
+      "instruction": "运行Python脚本",
+      "code": "open_website('https://www.example.com/python_script.py'); run_allowed_command('python python_script.py')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开网页浏览器",
+      "code": "open_website('http://www.google.com/search?q=python+programming')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "启动文本编辑器",
+      "code": "run_allowed_command('notepad')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "发送邮件",
+      "code": "write_file('message.txt', 'Hello, this is a test email.')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "执行系统命令：ls -l /",
+      "code": "run_allowed_command('ls -l /')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开网页浏览器并访问百度",
+      "code": "open_website('https://www.baidu.com/')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "将文本 'Hello, World!' 写入文件 test.txt",
+      "code": "write_file('test.txt', 'Hello, World!')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "创建一个名为 'my_file.txt' 的新文件并写入 'Hello, World!'",
+      "code": "write_file('my_file.txt', 'Hello, World!')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开浏览器并搜索 'Python教程'",
+      "code": "open_website('https://www.python.org')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "创建一个名为 'test.txt' 的文件并写入 'Hello, World!'",
+      "code": "open_website('https://www.example.com/')",
+      "description": "文本编辑",
+      "success_count": 0
+    },
+    {
+      "instruction": "启动记事本并输入文本",
+      "code": "run_allowed_command('notepad'); keyboard_type('Hello, world!')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开浏览器并搜索关键词",
+      "code": "open_website('https://www.google.com/search?q=example_keyword')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "执行系统命令",
+      "code": "run_allowed_command('/usr/bin/ls -l /tmp')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "运行命令提示符",
+      "code": "run_allowed_command('/c cmd')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "启动文件管理器",
+      "code": "run_allowed_command('explorer.exe')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "复制并粘贴到剪贴板的内容",
+      "code": "keyboard_type('剪贴板内容')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "在网页上输入 'Python' 并点击搜索按钮",
+      "code": "keyboard_type('Python'), mouse_click(10, 10)",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "将当前时间写入文件",
+      "code": "write_file('current_time.txt', str(datetime.now()))",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开 QQ 网页并发送一条消息给朋友",
+      "code": "open_website('https://qq.com'), mouse_click(10, 10), keyboard_type('发送消息')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开记事本",
+      "code": "open_website('https://www.notepad.com')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "查看当前时间",
+      "code": "write_file('current_time.txt', 'The current time is: %s' % datetime.datetime.now().time())",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "点击鼠标左键在屏幕中心",
+      "code": "mouse_click(1024, 576)",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "发送键盘输入",
+      "code": "keyboard_type('Hello, World!')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "点击鼠标左键并定位到 (10,20)",
+      "code": "mouse_click(10,20)",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "输入文本并按回车",
+      "code": "keyboard_type('hello\n')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "启动网络浏览器访问百度",
+      "code": "open_website('https://www.baidu.com/')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开记事本并输入内容",
+      "code": "write_file('test.txt', 'Hello, World!')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "点击鼠标位置（100,200）",
+      "code": "mouse_click(100,200)",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "打开一个名为 'https://www.example.com/' 的网站",
+      "code": "open_website('https://www.example.com/')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "将文本 'Hello, world!' 输入到当前活动窗口",
+      "code": "keyboard_type('Hello, world!')",
+      "description": "文件管理",
+      "success_count": 0
+    },
+    {
+      "instruction": "搜索 'Windows 系统自动化'",
+      "code": "run_allowed_command('explorer.exe https://www.google.com/search?q=Windows+系统+自动化')",
+      "description": "浏览器使用",
+      "success_count": 0
+    },
+    {
+      "instruction": "输入文本并发送",
+      "code": "keyboard_type('Hello, World!')",
+      "description": "Python编程辅助",
+      "success_count": 0
+    },
+    {
+      "instruction": "启动资源管理器",
+      "code": "run_allowed_command('explorer.exe')",
+      "description": "系统操作",
+      "success_count": 0
+    },
+    {
+      "instruction": "开启文件编辑器",
+      "code": "run_allowed_command('notepad.exe')",
+      "description": "系统操作",
+      "success_count": 0
+    }
+  ],
+  "stats": {
+    "total": 52,
+    "used": 0,
+    "last_used": null
+  }
+}

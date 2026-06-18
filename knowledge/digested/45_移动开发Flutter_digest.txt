@@ -1,0 +1,11 @@
+以下是根据您提供的文档内容生成的知识卡片：
+
+**标题**：Dart语言核心特性概述
+
+**关键概念**：
+- **Widget树**：Flutter中UI的构建基础，所有界面元素均由Widget组成，形成嵌套的树状结构。
+- **热重载**：Dart/Flutter开发中的高效调试功能，允许在不重启应用的情况下实时查看代码修改效果。
+- **MaterialApp**：Flutter中预置的Material Design风格应用框架，提供导航、主题等基础组件。
+
+**摘要**：
+本文档简要介绍了Dart语言在Flutter框架中的三个核心概念：Widget树作为UI构建的层级结构，热重载提升开发效率，以及MaterialApp作为快速搭建Material风格应用的入口示例。这些特性共同构成了Flutter高效、声明式UI开发的基础。
