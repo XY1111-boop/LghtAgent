@@ -1,7 +1,17 @@
 # LightAgent — Your Local AI Computer Butler
 
-**⚠️ Project Status: Incomplete, not fully functional, intended for academic discussion and code reference only.**  
-**🔴 Important Notice: I downloaded the code from my own GitHub repository and found that many files are missing compared to my local original project. I have no idea why — possibly an upload mistake or accidental omission. Therefore, anyone building upon this repository should expect to re‑implement a significant portion of the functionality from scratch. Please be aware.**
+---
+
+## ⚠️ Unified Notice (Please Read Carefully)
+
+- **Project Status**: Incomplete, not fully functional, intended for academic discussion and code reference only.
+- **Severely Missing Code**: I downloaded the code from my own GitHub repository and found that many files are missing compared to my local original project. I have no idea why (possibly an upload mistake). Therefore, anyone building upon this repository should expect to re‑implement a significant portion of the functionality from scratch. Do not rely on this repository as a complete project.
+- **Not for Production**: This is a personal learning experiment with many unfixed bugs and potential security issues. **Do not use it in production or on critical systems.** The developer is not responsible for any data loss or system damage.
+- **Runtime Environment**: Fully offline, all inference runs locally on an old laptop (GTX960M 2GB). No network required, privacy preserved.
+- **Development Background**: The author is a middle school student with zero coding experience, assisted by AI conversations. Code quality is rough ("spaghetti code") – please be kind.
+- **Recommended Use**: Better suited as an **architecture reference**, **technical discussion** material, or **teaching resource**. Direct running or deployment is not advised.
+
+If you still wish to try, you do so at your own risk and should be prepared to re‑develop many parts.
 
 ---
 
@@ -14,57 +24,102 @@
 - Storage: 128 GB HDD  
 - Python Version: 3.11  
 
-This project was designed, developed, debugged, and run entirely from scratch on the above old laptop. **No cloud GPU instances were used** – all inference is performed locally.
+This project was designed, developed, debugged, and run entirely from scratch on the above old laptop. **No cloud GPU instances were used.**
 
 ---
 
 ## 🎯 Project Background
 
-I am a middle school student in China who just finished the high school entrance exam. **I have zero programming background.** This is my **first Python project**, completed with AI assistance, and it took me about four or five days in total.  
-I did not use any dedicated AI‑programmer software (like OpenClaw – I couldn't afford it and didn't know how to use it anyway). Instead, I relied solely on ordinary DeepSeek conversations to generate code. My role was to define requirements, design the architecture, test functionalities, troubleshoot errors, and guide the iterative direction.  
-To be honest, some parts are dynamically coded while others are heavily hard‑coded. The overall structure is quite messy – it’s a typical **“spaghetti code”** pile. I’ve tried my best to make it run, but the current version may not work directly in every environment. Moreover, **the code in this repository is far less complete than what I have locally** – I don't know why, so if you download it, you will likely need to rebuild many parts yourself.  
-Nevertheless, I believe it can serve as a rough **architecture reference** or a starting point for **technical discussions** – it is by no means a production‑ready tool.
+I am a middle school student in China who just finished the high school entrance exam. **I have zero programming background.** This is my **first Python project**, completed with AI assistance, and it took about four or five days.  
+I did not use any dedicated AI‑programmer software (like OpenClaw); I relied solely on ordinary DeepSeek conversations to generate code. My role was to define requirements, design architecture, test, debug, and guide iterations.  
+Some parts are dynamic, others are hard‑coded – the overall structure is messy, a typical "spaghetti code" pile. I tried my best, but due to missing code in the repository, it likely won't run directly after download.
 
 ---
 
 ## 🎯 Project Overview
 
-LightAgent is a **fully offline** AI desktop application that integrates a local large language model, a secure sandbox, a knowledge base, a memory system, an evolution framework, tool calling, and a training center. It understands natural language instructions and can directly control your computer (open apps, manage files, browse the web, etc.) while executing code under strict permission controls.
+LightAgent is a **fully offline** AI desktop application that integrates a local LLM, secure sandbox, knowledge base, memory system, evolution framework, tool calling, and training center. It understands natural language and can directly control your computer (open apps, manage files, browse the web, etc.) under strict permission controls.
 
-The original inspiration for this project came from — **being bored with nothing else to do**. With AI assistance, I completed everything from system architecture design to the development and integration of all modules on my own.
-
----
-
-## ✨ Current Features
-
-*(The following are design goals; actual operation may be impaired due to missing code.)*
-
-- **Local Brain:** Runs entirely offline, no cloud API dependencies. Based on the Qwen2.5-1.5B GGUF model, with smooth response times.  
-- **Multi‑tab GUI:** A white‑theme PyQt5 interface containing more than a dozen functional pages, including AI Console, Local Browser, Workflow Editor, Evolution Dashboard, Learning Center, Real‑time Monitor, Memory Bank, Chat Room, Local Brain Monitor, etc.  
-- **Secure Sandbox:** Uses subprocess isolation to execute AI‑generated code, restricts allowed built‑in functions with a whitelist, forcibly terminates on timeout, and performs a secondary audit through a security auditor.  
-- **Dynamic Enhancement Framework:** Plug‑able enhancers (Chain‑of‑Thought, Reflection, Experience Learning, RAG, etc.) significantly boost the practical capabilities of the small model.  
-- **Intelligent Training Center:** Can call the DeepSeek API to automatically generate operation samples, incrementally improving the local model's task success rate. Supports manual addition and real‑time training monitoring.  
-- **Evolution System:** A talent‑tree style evolution dashboard that allows users to upgrade the model's abilities (Intelligence, Speed, Safety, Creativity) with one click, and also lets advanced users write custom evolution rules.  
-- **Knowledge Base & Memory:** Vector retrieval (ChromaDB) and long‑term memory management. Supports `/index` for manual indexing of local files, enabling document‑based Q&A.  
-- **Tool Calling:** The model can dynamically generate tool calls in JSON format to execute sandboxed code, system commands, file operations, and web browsing.
+The inspiration came from — **being bored**. With AI assistance, I completed everything from architecture design to module integration on my own.
 
 ---
 
-## 🛠️ Development Journey
+## ✨ Current Features (Design Goals – may not all work due to missing code)
 
-This project was built from scratch by me, with AI assistance step by step.  
-The entire process was full of challenges: hundreds of syntax errors, hard‑coded paths, threading crashes, missing DLLs, memory overflows… Whenever I encountered an issue, I fed the error messages to AI, got correction suggestions, then copied, tested, and iterated repeatedly.  
-The project is still evolving – the latest **MindForge** upgrade plan (heterogeneous computing, hierarchical memory, federated learning, etc.) is being gradually implemented.  
-I also plan to upload a demo version later (if I can sort out the complete code), so that everyone can experience the core features more easily.
+- **Local Brain**: Offline, based on Qwen2.5-1.5B GGUF.  
+- **Multi‑tab GUI**: PyQt5 white theme with AI Console, Local Browser, Workflow Editor, Evolution Dashboard, Learning Center, Monitor, Memory Bank, Chat Room, Brain Monitor, etc.  
+- **Secure Sandbox**: Subprocess isolation, whitelist, timeout, security auditor.  
+- **Dynamic Enhancement**: Pluggable enhancers (CoT, Reflection, RAG, etc.).  
+- **Training Center**: Uses DeepSeek API to generate samples, incremental learning.  
+- **Evolution System**: Talent‑tree upgrades (Intelligence, Speed, Safety, Creativity).  
+- **Knowledge Base & Memory**: ChromaDB vector retrieval, long‑term memory, `/index` for local files.  
+- **Tool Calling**: Dynamic JSON tool calls for sandboxed code, system commands, file ops, web browsing.
 
 ---
 
-## 📌 Notes & Disclaimer
+## 🛠️ Technology Stack
 
-- The current codebase is not perfect – it contains many experimental scripts and temporary files like `fix_*.py`, and the structure is a bit messy – *laziness*, but also limited ability.  
-- Some advanced modules (e.g., multimodal, federated learning) are only framework placeholders and have not yet been fully implemented.  
-- **Repository code is severely incomplete** – I only realised this after downloading it myself; it seems I may have missed some files during upload. Please do not rely on this repository as a complete project.  
-- The project runs completely locally, requires no network access, and ensures data privacy and security.  
-- This project is more suitable as a **learning reference** or a starting point for **technical discussions** – it is not recommended for direct use in production.  
-- Any suggestions, optimizations, or bug reports are highly welcome.  
-- **Contact**: 158786846@qq.com
+- Python 3.11, PyQt5, llama‑cpp‑python, ChromaDB/FAISS, SQLite, TF‑IDF  
+- Vosk (offline speech), pyttsx3 (TTS), PIL, OpenCV, pytesseract (OCR)  
+- ReAct Agent, MCP protocol, L1/L2/L3 self‑evolution, federated learning (experimental)  
+- Optional: DeepSeek API, Streamlit WebUI
+
+---
+
+## 📁 Project Structure
+LightAgent/
+├── main.py
+├── config.yaml
+├── core/ # Sandbox, executor, auditor
+├── intelligence/ # LLM, memory, evolution, tools, Agent, MCP
+├── knowledge/ # Vector KB, learning center
+├── ui/ # All GUI tabs
+├── utils/ # Config, logging, cache
+├── plugins/ # Plugin system
+├── skills/ # Skill YAML definitions
+├── web/ # Analysis report web pages
+├── models/ # Local model files (download separately)
+└── tests/ # Unit tests
+
+text
+
+---
+
+## 🚀 Quick Start (for Developers)
+
+### Requirements
+- Windows 10/11, Python 3.11+, GTX960M 2GB or better (CPU only works but slower), at least 12GB RAM.
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+Configure API Key (Optional)
+Fill in DeepSeek API Key in config.yaml or via settings UI after launch. Local models run without an API key.
+
+Download Model
+Download qwen2.5-1.5b-instruct-q4_k_m.gguf (~2.3GB) from Hugging Face mirror:
+https://hf-mirror.com/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf
+
+Place the .gguf file into the models/ directory.
+
+Launch
+bash
+python main.py
+Optional WebUI (Streamlit):
+📚 User Manual (Common Commands)
+Command	Description
+你好 (Hello)	General chat
+/run 打开计算器	Execute a system operation (audited and sandboxed)
+/index	Manually index the knowledge base
+/auto 整理桌面	Submit an autonomous task; Agent plans and executes
+The Training Center can auto‑generate samples; successful /run commands are recorded as experiences to improve future success rates.
+🙏 Acknowledgements
+Thanks to llama‑cpp‑python, Qwen2.5, DeepSeek, ChromaDB, and all open‑source communities and AI models.
+
+🌟 Contributing
+Issues and PRs are welcome! The project is early stage – any improvements (code, docs, design) are appreciated.
+
+💬 Contact
+Email: 158786846@qq.com
+bash
+streamlit run webui.py
